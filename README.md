@@ -1,4 +1,4 @@
-# stagiaire
+# Boub's Internship
 
 My internship App as a memory of good time
 
